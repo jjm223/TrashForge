@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Trash",
+  "name": "Trash",
+  "description": "Opens an inventory to dispose of items in upon the use of /trash.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["jjm_223"],
+  "credits": "Made by jjm_223.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
